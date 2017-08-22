@@ -7,3 +7,5 @@ console.log("200");
 console.log("300")
 
 console.log("500")
+
+console.log("600")
